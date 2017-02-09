@@ -15,7 +15,6 @@ A curated list of awesome reversing resources
     - [Import Reconstruction](#import-reconstruction)
     - [Dynamic Analysis](#dynamic-analysis)
     - [Debugging](#debugging)
-    - [Static Binary Instrumentation](#static-binary-instrumentation)
     - [Dynamic Binary Instrumentation](#dynamic-binary-instrumentation)
     - [Mac Decrypt](#mac-decrypt)
     - [Emulator](#emulator)
@@ -218,12 +217,6 @@ A curated list of awesome reversing resources
 
 *Linux-Only Debugging Tools*
 * [DDD](http://www.gnu.org/software/ddd/)
-
-## Static Binary Instrumentation
-
-*Static Binary Instrumentation Tools*
-
-* [WinDbg](https://msdn.microsoft.com/en-us/windows/hardware/hh852365.aspx)
 
 ## Dynamic Binary Instrumentation
 
